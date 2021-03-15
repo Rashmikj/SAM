@@ -9,7 +9,7 @@ public class Login {
 		System.out.println("login to application");
 	}
 	@Test
-	public void log2(String name,int no) {
+	public void log2(String name,int no,int id) {
 		
 	}
 }
