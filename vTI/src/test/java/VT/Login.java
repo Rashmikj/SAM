@@ -8,4 +8,8 @@ public class Login {
 	public void log() {
 		System.out.println("login to application");
 	}
+	@Test
+	public void log2(String name,int no) {
+		
+	}
 }
