@@ -12,4 +12,8 @@ public class Login {
 	public void log2(String name,int no,int id) {
 		
 	}
+	@Test
+	public void log2(String name,int no,int id) {
+		
+	}
 }
