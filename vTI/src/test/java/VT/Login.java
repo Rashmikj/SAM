@@ -13,7 +13,7 @@ public class Login {
 		
 	}
 	@Test
-	public void log2(String name,int no,int id) {
+	public void log21(String name,int no,int id) {
 		
 	}
 }
